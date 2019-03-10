@@ -15,5 +15,7 @@ namespace DatingApp.Data
         }
 
         public DbSet<Stuff> Stuffs { get; set; }
+
+        public DbSet<User> Users { get; set; }
     }
 }

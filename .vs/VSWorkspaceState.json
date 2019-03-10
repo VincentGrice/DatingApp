@@ -2,9 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\DatingApp",
-    "\\DatingApp-SPA\\src",
-    "\\DatingApp-SPA\\src\\app"
+    "\\DatingApp-SPA"
   ],
-  "SelectedNode": "\\DatingApp.sln",
   "PreviewInSolutionExplorer": false
 }
